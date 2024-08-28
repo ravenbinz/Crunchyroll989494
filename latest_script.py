@@ -27,7 +27,7 @@ def main():
     password = input("Enter password: ")
     
     # Check the password
-    if password == "fuad":
+    if password == "hehe":
         # Clear the terminal and show another loading bar (7 seconds)
         clear_terminal()
         display_loading_bar(7, "32")
